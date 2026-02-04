@@ -1,0 +1,7 @@
+{
+  "name": "VibeSphere - Modern Social Connector",
+  "description": "A high-fidelity mini social media platform featuring real-time-like interactions, AI-powered post suggestions using Gemini, robust user profiles, and a full follow/like system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
